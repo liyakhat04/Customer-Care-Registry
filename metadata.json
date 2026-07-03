@@ -1,0 +1,6 @@
+{
+  "name": "Customer Care Registry",
+  "description": "An enterprise-grade platform for recording, managing, and analyzing customer interactions, complaints, service requests, and feedback with AI-powered analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
